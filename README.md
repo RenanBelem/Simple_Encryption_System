@@ -1,4 +1,4 @@
-## 📄 README: Sistema de Criptografia Simples em Python (main.py)
+## Sistema de Criptografia Simples em Python
 
 Este projeto implementa um sistema de criptografia e descriptografia simples, simulando um protocolo de troca de mensagens entre duas entidades, nomeadas **Bob** e **Alice**. O sistema utiliza uma chave de sessão numérica gerada aleatoriamente e um esquema de substituição de caracteres para "criptografar" as mensagens.
 
